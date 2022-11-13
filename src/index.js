@@ -11,16 +11,3 @@
 
 //HINT: You will need to study the classes in teh styles.css file to appy styling.
 
-
-
-
-// branch 2.2.2
-
-// branch branch2
-
-
-
-
-
-
-// zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz branch 2
