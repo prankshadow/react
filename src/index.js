@@ -17,3 +17,5 @@
 // branch 2.2.2
 
 // branch branch2
+
+// This is final branch2 line written on branch2.
