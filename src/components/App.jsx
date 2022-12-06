@@ -19,7 +19,7 @@ function App() {
       <h1>
         <span>emojipedia</span>
       </h1>
-        
+        {emojipedia.map(information)}
     </div>
   );
 }
