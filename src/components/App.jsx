@@ -4,15 +4,14 @@ import emojipedia from "../emojipedia";
 
 function information(emojipedia) {
   return (
-    <Entry 
-      key = {emojipedia.id}
-      emoji = {emojipedia.emoji}
-      name = {emojipedia.name}
-      meaning = {emojipedia.meaning}
+    <Entry
+      key={emojipedia.id}
+      emoji={emojipedia.emoji}
+      name={emojipedia.name}
+      meaning={emojipedia.meaning}
     />
   );
 }
-
 
 function App() {
   return (
