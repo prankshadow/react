@@ -4,7 +4,8 @@ import emojipedia from "../emojipedia";
 
 function information(emojipedia) {
   return (
-    <Card 
+    <Entry 
+      key = {emojipedia.id}
       emoji = {emojipedia.emoji}
       name = {emojipedia.name}
       meaning = {emojipedia.meaning}
