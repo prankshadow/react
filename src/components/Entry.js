@@ -2,7 +2,7 @@ import React from "react";
 
 function Entry(props) {
     return (
-        <dl className="dictionary">
+        
             <div className="term">
                 <dt>
                     <span className="emoji">
@@ -14,7 +14,6 @@ function Entry(props) {
                     {props.meaning}
                 </dd>
             </div>
-        </dl>
     );
 }
 
